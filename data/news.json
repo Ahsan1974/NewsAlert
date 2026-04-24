@@ -1,0 +1,57 @@
+[
+    {
+        "time": "4:30pm",
+        "currency": "CAD",
+        "event": "CPI m/m",
+        "actual": "0.9%",
+        "forecast": "1.1%",
+        "previous": "0.5%",
+        "impact": "VERY HIGH",
+        "gold_view": "WATCH USD REACTION",
+        "action": "CAUTION"
+    },
+    {
+        "time": "CAD",
+        "currency": "Median",
+        "event": "CPI y/y",
+        "actual": "2.3%",
+        "forecast": "2.4%",
+        "previous": "2.3%",
+        "impact": "VERY HIGH",
+        "gold_view": "WATCH USD REACTION",
+        "action": "CAUTION"
+    },
+    {
+        "time": "CAD",
+        "currency": "Trimmed",
+        "event": "CPI y/y",
+        "actual": "2.2%",
+        "forecast": "2.3%",
+        "previous": "2.3%",
+        "impact": "VERY HIGH",
+        "gold_view": "WATCH USD REACTION",
+        "action": "CAUTION"
+    },
+    {
+        "time": "CAD",
+        "currency": "Common",
+        "event": "CPI y/y",
+        "actual": "2.6%",
+        "forecast": "2.6%",
+        "previous": "2.4%",
+        "impact": "VERY HIGH",
+        "gold_view": "WATCH USD REACTION",
+        "action": "CAUTION"
+    },
+    {
+        "time": "CAD",
+        "currency": "Core",
+        "event": "CPI m/m",
+        "actual": "",
+        "forecast": "0.2%",
+        "previous": "0.4%",
+        "impact": "VERY HIGH",
+        "gold_view": "WATCH USD REACTION",
+        "action": "CAUTION"
+    }
+]
