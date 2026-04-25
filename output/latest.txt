@@ -1,7 +1,15 @@
-1. 5:45pm | USD | Flash Manufacturing PMI | A:54.0 F:52.5 | LOW | NEUTRAL | SAFE TO TRADE
-2. 5:45pm | USD | Flash Services PMI | A:51.3 F:50.5 | LOW | NEUTRAL | SAFE TO TRADE
-3. 6:30pm | USD | Natural Gas Storage | A:103B F:96B | LOW | NEUTRAL | SAFE TO TRADE
-4. 3:30am | JPY | National Core CPI y/y | A:1.8% F:1.7% | VERY HIGH | WATCH USD REACTION | CAUTION
-5. 6:00pm | USD | Revised UoM Consumer Sentiment | A:49.8 F:48.5 | LOW | NEUTRAL | SAFE TO TRADE
-6. 6:00pm | USD | Revised UoM Inflation Expectations | A:4.7% F: | VERY HIGH | VOLATILE | CAUTION
-7. 8:00pm | USD | President Trump Speaks | A: F: | HIGH | VOLATILE | CAUTION
+1. LATEST STORIES | Bank of England Preview: Vigilance | 3 hr ago | media.rabobank.com | ⚪ LOW | NEUTRAL
+2. LATEST STORIES | Consumer sentiment at record low as Americans feel impact of war in Iran | 3 hr ago | finance.yahoo.com | 🔴 HIGH | GOLD BULLISH
+3. LATEST STORIES | European Macro Weekly: Where will UK inflation peak? | 8 hr ago | mufgresearch.com | 🔴 HIGH | NEUTRAL
+4. LATEST STORIES | Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision | 8 hr ago | cnbc.com | 🔴 HIGH | NEUTRAL
+5. LATEST STORIES | Ship suspected of cooperating with US military has been seized - Tasnim, citing Iranian Military | 9 hr ago | @financialjuice | 🟡 MEDIUM | GOLD BULLISH
+6. LATEST STORIES | Powell's Farewell Tour: FOMC Preview April 2026 | 9 hr ago | media.rabobank.com | 🟡 MEDIUM | NEUTRAL
+7. LATEST STORIES | Trump: Iran wants to talk and see if they can make a deal: Reuters | 10 hr ago | @DeItaone | 🔴 HIGH | GOLD BULLISH
+8. LATEST STORIES | ECB's Kazimir: Discussion Now Whether Slight Rate Increase "Might Be Necessary" | 10 hr ago | econostream-media.com | 🔴 HIGH | NEUTRAL
+9. LATEST STORIES | THINK Ahead: Central bankers balancing problems | 11 hr ago | think.ing.com | ⚪ LOW | NEUTRAL
+10. LATEST STORIES | Iran Foreign Minister Araghchi will not hold talks with US in Islamabad  Tasnim | 11 hr ago | @RedboxWire | 🟡 MEDIUM | GOLD BULLISH
+11. LATEST STORIES | WH Press Sec. Leavitt: Fed case not necessarily dropped | 11 hr ago | @FirstSquawk | 🟡 MEDIUM | NEUTRAL
+12. LATEST STORIES | Canadian Retail Sales (Feb.)  Holding On | 11 hr ago | economics.bmo.com | 🟡 MEDIUM | NEUTRAL
+13. LATEST STORIES | White House: Iran reached out and asked for in-person meeting | 12 hr ago | @DeItaone | 🟡 MEDIUM | GOLD BULLISH
+14. LATEST STORIES | US: Inflation Fears Drive Consumer Sentiment to Record Low | 12 hr ago | youtube.com | 🔴 HIGH | NEUTRAL
+15. LATEST STORIES | Trump admin. freezes $344 mln in crypto over links to Iran - CNN | 12 hr ago | @DeItaone | 🔴 HIGH | GOLD BULLISH

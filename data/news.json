@@ -1,79 +1,137 @@
 [
     {
-        "time": "5:45pm",
-        "currency": "USD",
-        "event": "Flash Manufacturing PMI",
-        "actual": "54.0",
-        "forecast": "52.5",
-        "previous": "52.3",
-        "impact": "LOW",
-        "gold_view": "NEUTRAL",
-        "action": "SAFE TO TRADE"
+        "section": "LATEST STORIES",
+        "headline": "Bank of England Preview: Vigilance",
+        "age": "3 hr ago",
+        "source": "media.rabobank.com",
+        "impact": "\u26aa LOW",
+        "sentiment": "NEUTRAL",
+        "url": "https://www.forexfactory.com/news/1395273-bank-of-england-preview-vigilance"
     },
     {
-        "time": "5:45pm",
-        "currency": "USD",
-        "event": "Flash Services PMI",
-        "actual": "51.3",
-        "forecast": "50.5",
-        "previous": "49.8",
-        "impact": "LOW",
-        "gold_view": "NEUTRAL",
-        "action": "SAFE TO TRADE"
+        "section": "LATEST STORIES",
+        "headline": "Consumer sentiment at record low as Americans feel impact of war in Iran",
+        "age": "3 hr ago",
+        "source": "finance.yahoo.com",
+        "impact": "\ud83d\udd34 HIGH",
+        "sentiment": "GOLD BULLISH",
+        "url": "https://www.forexfactory.com/news/1395289-consumer-sentiment-at-record-low-as-americans-feel"
     },
     {
-        "time": "6:30pm",
-        "currency": "USD",
-        "event": "Natural Gas Storage",
-        "actual": "103B",
-        "forecast": "96B",
-        "previous": "59B",
-        "impact": "LOW",
-        "gold_view": "NEUTRAL",
-        "action": "SAFE TO TRADE"
+        "section": "LATEST STORIES",
+        "headline": "European Macro Weekly: Where will UK inflation peak?",
+        "age": "8 hr ago",
+        "source": "mufgresearch.com",
+        "impact": "\ud83d\udd34 HIGH",
+        "sentiment": "NEUTRAL",
+        "url": "https://www.forexfactory.com/news/1395275-european-macro-weekly-where-will-uk-inflation-peak"
     },
     {
-        "time": "3:30am",
-        "currency": "JPY",
-        "event": "National Core CPI y/y",
-        "actual": "1.8%",
-        "forecast": "1.7%",
-        "previous": "1.6%",
-        "impact": "VERY HIGH",
-        "gold_view": "WATCH USD REACTION",
-        "action": "CAUTION"
+        "section": "LATEST STORIES",
+        "headline": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
+        "age": "8 hr ago",
+        "source": "cnbc.com",
+        "impact": "\ud83d\udd34 HIGH",
+        "sentiment": "NEUTRAL",
+        "url": "https://www.forexfactory.com/news/1395298-will-he-stay-or-will-he-go-with"
     },
     {
-        "time": "6:00pm",
-        "currency": "USD",
-        "event": "Revised UoM Consumer Sentiment",
-        "actual": "49.8",
-        "forecast": "48.5",
-        "previous": "47.6",
-        "impact": "LOW",
-        "gold_view": "NEUTRAL",
-        "action": "SAFE TO TRADE"
+        "section": "LATEST STORIES",
+        "headline": "Ship suspected of cooperating with US military has been seized - Tasnim, citing Iranian Military",
+        "age": "9 hr ago",
+        "source": "@financialjuice",
+        "impact": "\ud83d\udfe1 MEDIUM",
+        "sentiment": "GOLD BULLISH",
+        "url": "https://www.forexfactory.com/news/1395299-ship-suspected-of-cooperating-with-us-military-has"
     },
     {
-        "time": "6:00pm",
-        "currency": "USD",
-        "event": "Revised UoM Inflation Expectations",
-        "actual": "4.7%",
-        "forecast": "",
-        "previous": "4.8%",
-        "impact": "VERY HIGH",
-        "gold_view": "VOLATILE",
-        "action": "CAUTION"
+        "section": "LATEST STORIES",
+        "headline": "Powell's Farewell Tour: FOMC Preview April 2026",
+        "age": "9 hr ago",
+        "source": "media.rabobank.com",
+        "impact": "\ud83d\udfe1 MEDIUM",
+        "sentiment": "NEUTRAL",
+        "url": "https://www.forexfactory.com/news/1395274-powells-farewell-tour-fomc-preview-april-2026"
     },
     {
-        "time": "8:00pm",
-        "currency": "USD",
-        "event": "President Trump Speaks",
-        "actual": "",
-        "forecast": "",
-        "previous": "",
-        "impact": "HIGH",
-        "gold_view": "VOLATILE",
-        "action": "CAUTION"
+        "section": "LATEST STORIES",
+        "headline": "Trump: Iran wants to talk and see if they can make a deal: Reuters",
+        "age": "10 hr ago",
+        "source": "@DeItaone",
+        "impact": "\ud83d\udd34 HIGH",
+        "sentiment": "GOLD BULLISH",
+        "url": "https://www.forexfactory.com/news/1395290-trump-iran-wants-to-talk-and-see-if"
+    },
+    {
+        "section": "LATEST STORIES",
+        "headline": "ECB's Kazimir: Discussion Now Whether Slight Rate Increase \"Might Be Necessary\"",
+        "age": "10 hr ago",
+        "source": "econostream-media.com",
+        "impact": "\ud83d\udd34 HIGH",
+        "sentiment": "NEUTRAL",
+        "url": "https://www.forexfactory.com/news/1395278-ecbs-kazimir-discussion-now-whether-slight-rate-increase"
+    },
+    {
+        "section": "LATEST STORIES",
+        "headline": "THINK Ahead: Central bankers\u0092 balancing problems",
+        "age": "11 hr ago",
+        "source": "think.ing.com",
+        "impact": "\u26aa LOW",
+        "sentiment": "NEUTRAL",
+        "url": "https://www.forexfactory.com/news/1395253-think-ahead-central-bankers-balancing-problems"
+    },
+    {
+        "section": "LATEST STORIES",
+        "headline": "Iran Foreign Minister Araghchi will not hold talks with US in Islamabad \u0096 Tasnim",
+        "age": "11 hr ago",
+        "source": "@RedboxWire",
+        "impact": "\ud83d\udfe1 MEDIUM",
+        "sentiment": "GOLD BULLISH",
+        "url": "https://www.forexfactory.com/news/1395271-iran-foreign-minister-araghchi-will-not-hold-talks"
+    },
+    {
+        "section": "LATEST STORIES",
+        "headline": "WH Press Sec. Leavitt: Fed case not necessarily dropped",
+        "age": "11 hr ago",
+        "source": "@FirstSquawk",
+        "impact": "\ud83d\udfe1 MEDIUM",
+        "sentiment": "NEUTRAL",
+        "url": "https://www.forexfactory.com/news/1395269-wh-press-sec-leavitt-fed-case-not-necessarily"
+    },
+    {
+        "section": "LATEST STORIES",
+        "headline": "Canadian Retail Sales (Feb.) \u0097 Holding On",
+        "age": "11 hr ago",
+        "source": "economics.bmo.com",
+        "impact": "\ud83d\udfe1 MEDIUM",
+        "sentiment": "NEUTRAL",
+        "url": "https://www.forexfactory.com/news/1395254-canadian-retail-sales-feb-holding-on"
+    },
+    {
+        "section": "LATEST STORIES",
+        "headline": "White House: Iran reached out and asked for in-person meeting",
+        "age": "12 hr ago",
+        "source": "@DeItaone",
+        "impact": "\ud83d\udfe1 MEDIUM",
+        "sentiment": "GOLD BULLISH",
+        "url": "https://www.forexfactory.com/news/1395266-white-house-iran-reached-out-and-asked-for"
+    },
+    {
+        "section": "LATEST STORIES",
+        "headline": "US: Inflation Fears Drive Consumer Sentiment to Record Low",
+        "age": "12 hr ago",
+        "source": "youtube.com",
+        "impact": "\ud83d\udd34 HIGH",
+        "sentiment": "NEUTRAL",
+        "url": "https://www.forexfactory.com/news/1395260-us-inflation-fears-drive-consumer-sentiment-to-record"
+    },
+    {
+        "section": "LATEST STORIES",
+        "headline": "Trump admin. freezes $344 mln in crypto over links to Iran - CNN",
+        "age": "12 hr ago",
+        "source": "@DeItaone",
+        "impact": "\ud83d\udd34 HIGH",
+        "sentiment": "GOLD BULLISH",
+        "url": "https://www.forexfactory.com/news/1395263-trump-admin-freezes-344-mln-in-crypto-over"
     }
 ]
