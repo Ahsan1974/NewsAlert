@@ -1,8 +1,98 @@
 [
     {
         "section": "LATEST STORIES",
-        "headline": "Bank of England Preview: Vigilance",
+        "headline": "Trump: Calls on Americans to resolve disputes peacefully",
+        "age": "1 hr 59 min ago",
+        "source": "@FirstSquawk",
+        "impact": "\ud83d\udfe1 MEDIUM",
+        "sentiment": "NEUTRAL",
+        "url": "https://www.forexfactory.com/news/1395340-trump-calls-on-americans-to-resolve-disputes-peacefully"
+    },
+    {
+        "section": "LATEST STORIES",
+        "headline": "Trump: The First Lady, plus the Vice President, and all Cabinet members, are in perfect condition",
         "age": "3 hr ago",
+        "source": "@realDonaldTrump",
+        "impact": "\ud83d\udfe1 MEDIUM",
+        "sentiment": "NEUTRAL",
+        "url": "https://www.forexfactory.com/news/1395338-trump-the-first-lady-plus-the-vice-president"
+    },
+    {
+        "section": "LATEST STORIES",
+        "headline": "Shots fired during Trump press dinner; Suspect in custody after apparent shooting at Trump dinner",
+        "age": "3 hr ago",
+        "source": "@zerohedge",
+        "impact": "\ud83d\udfe1 MEDIUM",
+        "sentiment": "NEUTRAL",
+        "url": "https://www.forexfactory.com/news/1395336-shots-fired-during-trump-press-dinner-suspect-in"
+    },
+    {
+        "section": "LATEST STORIES",
+        "headline": "Global Inflation Scare: Chinese Exporters Hike Prices As Iran War Triggers Ethane Shortage, Plastics Crunch",
+        "age": "5 hr ago",
+        "source": "zerohedge.com",
+        "impact": "\ud83d\udd34 HIGH",
+        "sentiment": "GOLD BULLISH",
+        "url": "https://www.forexfactory.com/news/1395318-global-inflation-scare-chinese-exporters-hike-prices-as"
+    },
+    {
+        "section": "LATEST STORIES",
+        "headline": "Lebanese News Agency: Series of Israeli airstrikes on southern Lebanon following Netanyahu's directive for attacks against Hezbollah",
+        "age": "8 hr ago",
+        "source": "@FirstSquawk",
+        "impact": "\u26aa LOW",
+        "sentiment": "GOLD BULLISH",
+        "url": "https://www.forexfactory.com/news/1395331-lebanese-news-agency-series-of-israeli-airstrikes-on"
+    },
+    {
+        "section": "LATEST STORIES",
+        "headline": "Iranian media: It is expected that Araghchi will visit Pakistan again",
+        "age": "8 hr ago",
+        "source": "@FirstSquawk",
+        "impact": "\ud83d\udfe1 MEDIUM",
+        "sentiment": "GOLD BULLISH",
+        "url": "https://www.forexfactory.com/news/1395330-iranian-media-it-is-expected-that-araghchi-will"
+    },
+    {
+        "section": "LATEST STORIES",
+        "headline": "Jerome Powell's final Fed press conference marks an end to an era",
+        "age": "9 hr ago",
+        "source": "morningstar.com",
+        "impact": "\ud83d\udd34 HIGH",
+        "sentiment": "NEUTRAL",
+        "url": "https://www.forexfactory.com/news/1395320-jerome-powells-final-fed-press-conference-marks-an"
+    },
+    {
+        "section": "LATEST STORIES",
+        "headline": "Trump: Just cancelled the trip of my representatives going to meet with the Iranians. We have all the cards, they have none!",
+        "age": "12 hr ago",
+        "source": "@realDonaldTrump",
+        "impact": "\ud83d\udd34 HIGH",
+        "sentiment": "GOLD BULLISH",
+        "url": "https://www.forexfactory.com/news/1395328-trump-just-cancelled-the-trip-of-my-representatives"
+    },
+    {
+        "section": "LATEST STORIES",
+        "headline": "Some young Americans scale back dating as costs and apps add pressure, survey shows",
+        "age": "14 hr ago",
+        "source": "cnbc.com",
+        "impact": "\u26aa LOW",
+        "sentiment": "NEUTRAL",
+        "url": "https://www.forexfactory.com/news/1395317-some-young-americans-scale-back-dating-as-costs"
+    },
+    {
+        "section": "LATEST STORIES",
+        "headline": "China first-quarter fiscal spending quickens as Beijing seeks to spur growth",
+        "age": "18 hr ago",
+        "source": "channelnewsasia.com",
+        "impact": "\u26aa LOW",
+        "sentiment": "NEUTRAL",
+        "url": "https://www.forexfactory.com/news/1395310-china-first-quarter-fiscal-spending-quickens-as-beijing-seeks"
+    },
+    {
+        "section": "LATEST STORIES",
+        "headline": "Bank of England Preview: Vigilance",
+        "age": "23 hr ago",
         "source": "media.rabobank.com",
         "impact": "\u26aa LOW",
         "sentiment": "NEUTRAL",
@@ -11,7 +101,7 @@
     {
         "section": "LATEST STORIES",
         "headline": "Consumer sentiment at record low as Americans feel impact of war in Iran",
-        "age": "3 hr ago",
+        "age": "27 hr ago",
         "source": "finance.yahoo.com",
         "impact": "\ud83d\udd34 HIGH",
         "sentiment": "GOLD BULLISH",
@@ -20,7 +110,7 @@
     {
         "section": "LATEST STORIES",
         "headline": "European Macro Weekly: Where will UK inflation peak?",
-        "age": "8 hr ago",
+        "age": "31 hr ago",
         "source": "mufgresearch.com",
         "impact": "\ud83d\udd34 HIGH",
         "sentiment": "NEUTRAL",
@@ -29,7 +119,7 @@
     {
         "section": "LATEST STORIES",
         "headline": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
-        "age": "8 hr ago",
+        "age": "32 hr ago",
         "source": "cnbc.com",
         "impact": "\ud83d\udd34 HIGH",
         "sentiment": "NEUTRAL",
@@ -38,100 +128,10 @@
     {
         "section": "LATEST STORIES",
         "headline": "Ship suspected of cooperating with US military has been seized - Tasnim, citing Iranian Military",
-        "age": "9 hr ago",
+        "age": "32 hr ago",
         "source": "@financialjuice",
         "impact": "\ud83d\udfe1 MEDIUM",
         "sentiment": "GOLD BULLISH",
         "url": "https://www.forexfactory.com/news/1395299-ship-suspected-of-cooperating-with-us-military-has"
-    },
-    {
-        "section": "LATEST STORIES",
-        "headline": "Powell's Farewell Tour: FOMC Preview April 2026",
-        "age": "9 hr ago",
-        "source": "media.rabobank.com",
-        "impact": "\ud83d\udfe1 MEDIUM",
-        "sentiment": "NEUTRAL",
-        "url": "https://www.forexfactory.com/news/1395274-powells-farewell-tour-fomc-preview-april-2026"
-    },
-    {
-        "section": "LATEST STORIES",
-        "headline": "Trump: Iran wants to talk and see if they can make a deal: Reuters",
-        "age": "10 hr ago",
-        "source": "@DeItaone",
-        "impact": "\ud83d\udd34 HIGH",
-        "sentiment": "GOLD BULLISH",
-        "url": "https://www.forexfactory.com/news/1395290-trump-iran-wants-to-talk-and-see-if"
-    },
-    {
-        "section": "LATEST STORIES",
-        "headline": "ECB's Kazimir: Discussion Now Whether Slight Rate Increase \"Might Be Necessary\"",
-        "age": "10 hr ago",
-        "source": "econostream-media.com",
-        "impact": "\ud83d\udd34 HIGH",
-        "sentiment": "NEUTRAL",
-        "url": "https://www.forexfactory.com/news/1395278-ecbs-kazimir-discussion-now-whether-slight-rate-increase"
-    },
-    {
-        "section": "LATEST STORIES",
-        "headline": "THINK Ahead: Central bankers\u0092 balancing problems",
-        "age": "11 hr ago",
-        "source": "think.ing.com",
-        "impact": "\u26aa LOW",
-        "sentiment": "NEUTRAL",
-        "url": "https://www.forexfactory.com/news/1395253-think-ahead-central-bankers-balancing-problems"
-    },
-    {
-        "section": "LATEST STORIES",
-        "headline": "Iran Foreign Minister Araghchi will not hold talks with US in Islamabad \u0096 Tasnim",
-        "age": "11 hr ago",
-        "source": "@RedboxWire",
-        "impact": "\ud83d\udfe1 MEDIUM",
-        "sentiment": "GOLD BULLISH",
-        "url": "https://www.forexfactory.com/news/1395271-iran-foreign-minister-araghchi-will-not-hold-talks"
-    },
-    {
-        "section": "LATEST STORIES",
-        "headline": "WH Press Sec. Leavitt: Fed case not necessarily dropped",
-        "age": "11 hr ago",
-        "source": "@FirstSquawk",
-        "impact": "\ud83d\udfe1 MEDIUM",
-        "sentiment": "NEUTRAL",
-        "url": "https://www.forexfactory.com/news/1395269-wh-press-sec-leavitt-fed-case-not-necessarily"
-    },
-    {
-        "section": "LATEST STORIES",
-        "headline": "Canadian Retail Sales (Feb.) \u0097 Holding On",
-        "age": "11 hr ago",
-        "source": "economics.bmo.com",
-        "impact": "\ud83d\udfe1 MEDIUM",
-        "sentiment": "NEUTRAL",
-        "url": "https://www.forexfactory.com/news/1395254-canadian-retail-sales-feb-holding-on"
-    },
-    {
-        "section": "LATEST STORIES",
-        "headline": "White House: Iran reached out and asked for in-person meeting",
-        "age": "12 hr ago",
-        "source": "@DeItaone",
-        "impact": "\ud83d\udfe1 MEDIUM",
-        "sentiment": "GOLD BULLISH",
-        "url": "https://www.forexfactory.com/news/1395266-white-house-iran-reached-out-and-asked-for"
-    },
-    {
-        "section": "LATEST STORIES",
-        "headline": "US: Inflation Fears Drive Consumer Sentiment to Record Low",
-        "age": "12 hr ago",
-        "source": "youtube.com",
-        "impact": "\ud83d\udd34 HIGH",
-        "sentiment": "NEUTRAL",
-        "url": "https://www.forexfactory.com/news/1395260-us-inflation-fears-drive-consumer-sentiment-to-record"
-    },
-    {
-        "section": "LATEST STORIES",
-        "headline": "Trump admin. freezes $344 mln in crypto over links to Iran - CNN",
-        "age": "12 hr ago",
-        "source": "@DeItaone",
-        "impact": "\ud83d\udd34 HIGH",
-        "sentiment": "GOLD BULLISH",
-        "url": "https://www.forexfactory.com/news/1395263-trump-admin-freezes-344-mln-in-crypto-over"
     }
 ]
